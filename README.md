@@ -6,6 +6,8 @@ Dockerized Pothos data-flow framework
 
 # Installation
 
+Automated builds of the image are available on [Dockerhub](https://hub.docker.com/r/philmd/pothos) and is the recommended method of installation.
+
 Download:
 
 ```bash
