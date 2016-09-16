@@ -1,0 +1,6 @@
+deb http://ppa.launchpad.net/pothosware/framework/ubuntu xenial main
+# deb-src http://ppa.launchpad.net/pothosware/framework/ubuntu xenial main
+deb http://ppa.launchpad.net/pothosware/support/ubuntu xenial main
+# deb-src http://ppa.launchpad.net/pothosware/support/ubuntu xenial main
+deb http://ppa.launchpad.net/myriadrf/drivers/ubuntu xenial main
+# deb-src http://ppa.launchpad.net/myriadrf/drivers/ubuntu xenial main
